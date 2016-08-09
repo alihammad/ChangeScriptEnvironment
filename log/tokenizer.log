@@ -1,0 +1,492 @@
+
+-----------------------------
+
+Execution started at 20160510171053
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/SQL/All_Base_Off_Contract.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171053
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/SQL/All_Base_Off_Contract.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171053
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171053 at 17:10:53
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171053 at 17:10:54
+
+-----------------------------
+
+Execution started at 20160510171133
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/SQL/All_Base_Off_Contract.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171133
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/SQL/All_Base_Off_Contract.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171133
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171133 at 17:11:33
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171133 at 17:11:34
+
+-----------------------------
+
+Execution started at 20160510171237
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/SQL/All_Base_Off_Contract.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171237
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/SQL/All_Base_Off_Contract.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171237
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171237 at 17:12:38
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/All_Base_Off_Contract.sql_20160510171237 at 17:12:39
+
+-----------------------------
+
+Execution started at 20160511094237
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094237
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094237
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094237 at 09:42:38
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094237 at 09:42:38
+
+-----------------------------
+
+Execution started at 20160511094423
+
+-----------------------------
+
+Execution started at 20160511094436
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql2
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094436
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql2 to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094436
+Please wait...
+Copying done.
+
+De-Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/detokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094436 at 09:44:36
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094436 at 09:44:37
+
+-----------------------------
+
+Execution started at 20160511094625
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql2
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094625
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql2 to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094625
+Please wait...
+Copying done.
+
+De-Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/detokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094625 at 09:46:26
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094625 at 09:46:26
+
+-----------------------------
+
+Execution started at 20160511094924
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql2
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094924
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql2 to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094924
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094924 at 09:49:25
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql2_20160511094924 at 09:49:25
+
+-----------------------------
+
+Execution started at 20160511094932
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094932
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094932
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094932 at 09:49:32
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511094932 at 09:49:33
+
+-----------------------------
+
+Execution started at 20160511095449
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511095449
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511095449
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511095449 at 09:54:49
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/bteg_chk_cube_data_dt.sql_20160511095449 at 09:54:50
+
+-----------------------------
+
+Execution started at 20160511102105
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: 
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to 
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in  at 10:21:06
+Please wait...
+Modified following files
+Finished: Replacing tokens in  at 10:21:06
+
+-----------------------------
+
+Execution started at 20160511102530
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: 
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to 
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in  at 10:25:30
+Please wait...
+Modified following files
+Finished: Replacing tokens in  at 10:25:30
+
+-----------------------------
+
+Execution started at 20160511102705
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: 
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to 
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in  at 10:27:06
+Please wait...
+Modified following files
+Finished: Replacing tokens in  at 10:27:06
+
+-----------------------------
+
+Execution started at 20160511102740
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: 
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to 
+Please wait...
+
+-----------------------------
+
+Execution started at 20160511102934
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: 
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to 
+Please wait...
+
+-----------------------------
+
+Execution started at 20160511103111
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111 at 10:31:11
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111 at 10:31:12
+
+-----------------------------
+
+Execution started at 20160511103247
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111_20160511103247
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111 to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111_20160511103247
+Please wait...
+Copying done.
+
+De-Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/detokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111_20160511103247 at 10:32:50
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111_20160511103247 at 10:32:50
+
+-----------------------------
+
+Execution started at 20160511103401
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103401
+-----------------------------
+
+Copying cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103401
+Please wait...
+
+-----------------------------
+
+Execution started at 20160511103436
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436 at 10:34:37
+Please wait...
+Modified following files
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/refresh_sales_cube/archive/daily_load_stg1 20150407.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/refresh_sales_cube/daily_load_stg1.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/refresh_sales_cube/install/EDW.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/refresh_sales_cube/macros_stg1/spcomm.all_daily_add_churn_010.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/refresh_sales_cube/macros_stg2/spcomm.all_daily_add_churn_127a_hs_wk.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/All_Base_Off_Contract.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/All_Churns_Off_Contract.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/Archive/backup for Fixing Fixed/Fixed_Check_Data.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/Archive/Da_Rpc_Arpu_Load_bf_20130523.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/Archive/recontract/20121011/SMB_Daily_Recontracts_Load_20120801.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/Archive/recontract/SMB_Daily_Recontracts_Load_20130710.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/DA_RPC_ARPU_PACKAGE/Da_Rpc_Arpu_Load.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/DA_RPC_ARPU_PACKAGE/load_date.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Da_Rpc_Arpu_bteq.err
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Da_Rpc_Arpu_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Da_Rpc_Arpu_EndTime_bteq.err
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Da_Rpc_Arpu_EndTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Da_Rpc_Arpu_sqlscript_2013-07-01.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Da_Rpc_Arpu_StartTime_bteq.err
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Da_Rpc_Arpu_StartTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Prepaid_Adds_Churns_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Prepaid_Adds_Churns_EndTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/Prepaid_Adds_Churns_StartTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/SMB_Daily_Recontracts_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/SMB_Daily_Recontracts_EndTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436/SQL/temp/presentation/SMB_Daily_Recontracts_StartTime_bteq.log
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511103436 at 10:35:54
+
+-----------------------------
+
+Execution started at 20160511124144
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111_20160511124144
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111 to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511103111_20160511124144
+Please wait...
+
+-----------------------------
+
+Execution started at 20160511124235
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235 at 12:42:36
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235 at 12:42:36
+
+-----------------------------
+
+Execution started at 20160511124332
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235_20160511124332
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235 to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235_20160511124332
+Please wait...
+Copying done.
+
+De-Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/detokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235_20160511124332 at 12:43:32
+Please wait...
+Modified following files
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization/Admin/housekeeping/bteg_chk_cube_data_dt.sql_20160511124235_20160511124332 at 12:43:33
+
+-----------------------------
+
+Execution started at 20160511124435
+
+Root directory: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1
+Log direcotry: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log
+Log file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/log/tokenizer.log
+Source: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization
+Target: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435
+-----------------------------
+
+Copying /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization to /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435
+Please wait...
+Copying done.
+
+Tokenizing the scripts using configuration file: /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/etc/tokenizer_replacement_values.ini
+Start: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435 at 12:44:36
+Please wait...
+Modified following files
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/Admin/housekeeping/bteg_chk_cube_data_dt.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/refresh_sales_cube/archive/daily_load_stg1 20150407.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/refresh_sales_cube/daily_load_stg1.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/refresh_sales_cube/install/EDW.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/refresh_sales_cube/macros_stg1/spcomm.all_daily_add_churn_010.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/refresh_sales_cube/macros_stg2/spcomm.all_daily_add_churn_127a_hs_wk.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/All_Base_Off_Contract.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/All_Churns_Off_Contract.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/Archive/backup for Fixing Fixed/Fixed_Check_Data.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/Archive/Da_Rpc_Arpu_Load_bf_20130523.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/Archive/recontract/20121011/SMB_Daily_Recontracts_Load_20120801.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/Archive/recontract/SMB_Daily_Recontracts_Load_20130710.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/DA_RPC_ARPU_PACKAGE/Da_Rpc_Arpu_Load.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/DA_RPC_ARPU_PACKAGE/load_date.sql
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Da_Rpc_Arpu_bteq.err
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Da_Rpc_Arpu_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Da_Rpc_Arpu_EndTime_bteq.err
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Da_Rpc_Arpu_EndTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Da_Rpc_Arpu_sqlscript_2013-07-01.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Da_Rpc_Arpu_StartTime_bteq.err
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Da_Rpc_Arpu_StartTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Prepaid_Adds_Churns_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Prepaid_Adds_Churns_EndTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/Prepaid_Adds_Churns_StartTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/SMB_Daily_Recontracts_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/SMB_Daily_Recontracts_EndTime_bteq.log
+/cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435/SQL/temp/presentation/SMB_Daily_Recontracts_StartTime_bteq.log
+Finished: Replacing tokens in /cygdrive/c/Users/cp555323/Desktop/alibaig/find_db_objects/tokenizer1/src/src_for_tokenization_20160511124435 at 12:45:57

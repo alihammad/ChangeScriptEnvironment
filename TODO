@@ -1,0 +1,28 @@
+TODO
+- script accepts static database names file
+- Two more args - from_env and to_env (e.g. P and O means production to Development)
+- does not read config file rather generated config file on the go using the parameterized db file
+- based on the "from env", the conf file generated will be for "to env"
+- Once the config file is generated, pass the file/directory thorugh the config file to generatet the script 
+  according to the "to_env"
+- Keep an option to "just"  parameterize the script - or create a new script for that purpose
+- write the entire db file in ../etc/config.ini in the following format
+	APDL : s/\bA|from_env|DL\b/A|to_env|DL/ig
+	from_env: x
+	to_env: y
+	DB_Name: APDL
+	find AxDL and replace with AyDL
+	find A_DL and replace with A_DL
+	SET1: replace second character of db name with "from_env"
+	SET2: repalce second character od db name with "to_env"
+	form the sed string and write in config.ini
+
+
+tokenization.sh [ dbfile ]
+				[ from_env | to_env ] 
+				[ 
+					[-f ] [source file ] 
+					| [ -d ] [ souerce directory] 
+				]
+
+				
